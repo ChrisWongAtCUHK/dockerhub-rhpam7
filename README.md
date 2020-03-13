@@ -25,3 +25,6 @@ redhatpam1!
 pamAdmin
 #### Password
 redhatpam1!
+
+### Docker Hub
+[chriswongatcuhk/rhpam7](https://hub.docker.com/repository/docker/chriswongatcuhk/rhpam7)
